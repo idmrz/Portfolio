@@ -2,7 +2,7 @@
 
 ### About
 
-   Hi! I'm Ibrahim, I have 14 years experience in technical department of counstruction field and since 2015 working as data analyst.
+   I have 14 years of experience in the technical department in the construction field and have been working as a data analyst since 2015.
 
 ### Table of contents
 - [About](#about)
