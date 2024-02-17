@@ -10,6 +10,7 @@ This is a repository that I have created to showcase skills, share projects and 
 
 
 ### Portfolio Projects
+- [Code](https://github.com/idmrz/Portfolio/blob/main/london_bike.ipynb)
 - [Tableau](https://public.tableau.com/app/profile/ibrahim.demirez/viz/LondonBikeRides_17073289954080/LondonRide)
 
 ### Certificates
