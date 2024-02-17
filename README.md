@@ -23,7 +23,13 @@
 - [JavaScript](https://github.com/idmrz/Portfolio/blob/main/Java%20Script.pdf) (Jan 2018) (Solo Learn)
 - [HTML](https://github.com/idmrz/Portfolio/blob/main/HTML.pdf) (Oct 2018) (Solo Learn)
 
-### Pages
+### Development Pages
 - [Kaggle](https://www.kaggle.com/ibrahimdemirez)
+- [Tableau](https://public.tableau.com/app/profile/idmrz/vizzes)
 - [Tableau](https://public.tableau.com/app/profile/idmrz)
+- [Solo Learn](https://www.sololearn.com/en/profile/7114553)
+
+### Contacts
 - [Linkedin](https://www.linkedin.com/in/idmrz/)
+- [imdemrz@gmail.com]
+
