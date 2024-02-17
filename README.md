@@ -1,7 +1,15 @@
-## Portfolio
+## Ibrahim Demirez Portfolio
 This is a repository that I have created to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics..
 
-### Projects
+### About
+
+
+### Table of contents
+- [About](#about)
+
+
+
+### Portfolio Projects
 - [Tableau](https://public.tableau.com/app/profile/ibrahim.demirez/viz/LondonBikeRides_17073289954080/LondonRide)
 
 ### Certificates
