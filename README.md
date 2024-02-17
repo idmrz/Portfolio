@@ -15,12 +15,13 @@
 
 ## Certificates
 
-- [What is Data Science](https://coursera.org/share/ec28e8ef7c815dbd3a8be0e8b1811664) (Feb 2023) (Coursera / IBM)
-- [Introduction to Statistics](https://www.coursera.org/account/accomplishments/verify/ZL9RCFAJ9UCY?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course) (Oct 2023) (Coursera / Stanford University) 
-- [SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/KTR7FETGZN9D?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course) (Nov 2023) (Coursera / UC Davis)
-- [SQL](https://www.sololearn.com/certificates/CT-IFVSCZEL) (Aug 2018) (Solo Learn)
-- [JavaScript](https://www.sololearn.com/certificates/CT-CGON9EF1) (Jan 2018) (Solo Learn)
-- [HTML](https://www.sololearn.com/certificates/CT-7BKEXJCW) (Oct 2018) (Solo Learn)
+- [What is Data Science](https://github.com/idmrz/Portfolio/blob/main/What%20is%20Data%20Science.pdf)) (Feb 2023) (Coursera / IBM)
+- [Foundation of (UX) design](https://github.com/idmrz/Portfolio/blob/main/Foundation%20of%20(UX)%20Design.pdf) (Sep 2023) (Coursera / Google)
+- [Introduction to Statistics](https://github.com/idmrz/Portfolio/blob/main/Introduction%20to%20Statistics.pdf) (Oct 2023) (Coursera / Stanford University) 
+- [SQL for Data Science](https://github.com/idmrz/Portfolio/blob/main/SQL%20for%20Data%20Science.pdf) (Nov 2023) (Coursera / UC Davis)
+- [SQL](https://github.com/idmrz/Portfolio/blob/main/SQL.pdf) (Aug 2018) (Solo Learn)
+- [JavaScript](https://github.com/idmrz/Portfolio/blob/main/Java%20Script.pdf) (Jan 2018) (Solo Learn)
+- [HTML](https://github.com/idmrz/Portfolio/blob/main/HTML.pdf) (Oct 2018) (Solo Learn)
 
 ### Pages
 - [Kaggle](https://www.kaggle.com/ibrahimdemirez)
