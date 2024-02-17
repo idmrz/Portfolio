@@ -1,8 +1,8 @@
-## Ibrahim Demirez Portfolio
-This is a repository that I have created to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics..
+## Ibrahim Demirez - Data Analysis Portfolio
 
 ### About
 
+   Hi! I'm Ibrahim, I have 14 years experience in technical department of counstruction field and since 2015 working as data analyst.
 
 ### Table of contents
 - [About](#about)
