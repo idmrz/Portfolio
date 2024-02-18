@@ -6,6 +6,7 @@
 
 ### Table of contents
 - [About](#about)
+- [Portfolio projects](#portfolio-projects)
 
 
 
@@ -31,5 +32,5 @@
 
 ### Contacts
 - [Linkedin](https://www.linkedin.com/in/idmrz/)
-- [imdemrz@gmail.com]
+- imdemrz@gmail.com
 
