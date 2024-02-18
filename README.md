@@ -14,9 +14,7 @@
 - [Code](https://github.com/idmrz/Portfolio/blob/main/london_bike.ipynb)
 - [Tableau](https://public.tableau.com/app/profile/ibrahim.demirez/viz/LondonBikeRides_17073289954080/LondonRide)
 
-## Certificates
-
-### My personal point of view certificates are just a paper and proof nothing
+## Certificates  
 
 - [SQL for Data Science](https://github.com/idmrz/Portfolio/blob/main/SQL%20for%20Data%20Science.pdf) (Nov 2023) (Coursera / UC Davis) 
 - [Introduction to Statistics](https://github.com/idmrz/Portfolio/blob/main/Introduction%20to%20Statistics.pdf) (Oct 2023) (Coursera / Stanford University) 
