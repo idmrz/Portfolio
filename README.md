@@ -27,7 +27,6 @@
 ### Development Pages
 - [Kaggle](https://www.kaggle.com/ibrahimdemirez)
 - [Tableau](https://public.tableau.com/app/profile/idmrz/vizzes)
-- [Tableau](https://public.tableau.com/app/profile/idmrz)
 - [Solo Learn](https://www.sololearn.com/en/profile/7114553)
 
 ### Contacts
