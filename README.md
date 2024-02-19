@@ -7,6 +7,9 @@
 ### Table of contents
 - [About](#about)
 - [Portfolio projects](#portfolio-projects)
+- [Certificates](certificates)
+- [Platforms](platforms)
+- [Contact](contact)
 
 
 
@@ -25,7 +28,7 @@
 - [JavaScript](https://github.com/idmrz/Portfolio/blob/main/Java%20Script.pdf) (Jan 2018) (Solo Learn)
 
 
-### Development Pages
+### Platforms
 - [Kaggle](https://www.kaggle.com/ibrahimdemirez)
 - [Tableau](https://public.tableau.com/app/profile/idmrz/vizzes)
 - [Solo Learn](https://www.sololearn.com/en/profile/7114553)
