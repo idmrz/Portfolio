@@ -20,7 +20,7 @@
 - [Data Analysis](https://github.com/idmrz/Data-analysis)
 
 ### Study Projects
-- [Code](https://github.com/idmrz/Portfolio/blob/main/london_bike.ipynb)
+- [Code](https://github.com/idmrz/Data-analysis/blob/main/london_bike.ipynb)
 - [Tableau](https://public.tableau.com/app/profile/ibrahim.demirez/viz/LondonBikeRides_17073289954080/LondonRide)
 
 ## Certificates  
