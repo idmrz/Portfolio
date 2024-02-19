@@ -16,7 +16,6 @@
 ### Learning journey
 - [SQL](https://github.com/idmrz/SQL)
 - [Python](https://github.com/idmrz/Python)
-- [Tableau](https://github.com/idmrz/Tableau)
 - [Data Analysis](https://github.com/idmrz/Data-analysis)
 
 ### Study Projects
