@@ -2,18 +2,24 @@
 
 ### About
 
-   I have 14 years of experience in the technical department in the construction field and have been working as a data analyst since 2015.
+   I have 19 years of experience in the technical department in the construction field and have been working as a data analyst since 2015. During this period I used Excel, Power Query, PowerBI, SQL extencively. Now I am python and tableau, planning to be employed in 2024.
+   
 
 ### Table of contents
 - [About](#about)
-- [Portfolio projects](#portfolio-projects)
+- [Learning Journey](#learning-journey)
+- [Study projects](#study-projects)
 - [Certificates](certificates)
 - [Platforms](platforms)
 - [Contact](contact)
 
+### Learning journey
+- [SQL]()
+- [Python]()
+- [Tableau]()
+- [Data Analysis]()
 
-
-### Portfolio Projects
+### Study Projects
 - [Code](https://github.com/idmrz/Portfolio/blob/main/london_bike.ipynb)
 - [Tableau](https://public.tableau.com/app/profile/ibrahim.demirez/viz/LondonBikeRides_17073289954080/LondonRide)
 
