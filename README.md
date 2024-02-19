@@ -32,5 +32,5 @@
 
 ### Contacts
 - [Linkedin](https://www.linkedin.com/in/idmrz/)
-- imdemrz@gmail.com
+- idemrz@gmail.com
 
