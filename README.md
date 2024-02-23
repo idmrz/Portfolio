@@ -24,13 +24,13 @@
 
 ## Certificates  
 
-- [SQL for Data Science](https://github.com/idmrz/SQL/blob/main/SQL%20for%20Data%20Science.pdf) (Nov 2023) (Coursera / UC Davis) 
-- [SQL](https://github.com/idmrz/SQL/blob/main/SQL.pdf) (Aug 2018) (Solo Learn)
-- [Introduction to Statistics](https://github.com/idmrz/Portfolio/blob/main/Introduction%20to%20Statistics.pdf) (Oct 2023) (Coursera / Stanford University) 
-- [Foundation of (UX) design](https://github.com/idmrz/Portfolio/blob/main/Foundation%20of%20(UX)%20Design.pdf) (Sep 2023) (Coursera / Google)
-- [What is Data Science](https://github.com/idmrz/Portfolio/blob/main/What%20is%20Data%20Science.pdf)) (Feb 2023) (Coursera / IBM)
-- [HTML](https://github.com/idmrz/Portfolio/blob/main/HTML.pdf) (Oct 2018) (Solo Learn)
-- [JavaScript](https://github.com/idmrz/Portfolio/blob/main/Java%20Script.pdf) (Jan 2018) (Solo Learn)
+- [SQL for Data Science](https://drive.google.com/file/d/1lhSaVMReuWV-Z2YF_TTIPl_2Z9blZ7tN/view?usp=sharing) (Nov 2023) (Coursera / UC Davis) 
+- [SQL](https://drive.google.com/file/d/14b-PPs8yIlLIM_rigufZwP5u0k4rWM_J/view?usp=sharing) (Aug 2018) (Solo Learn)
+- [Introduction to Statistics](https://drive.google.com/file/d/1p5gKH9CvWnvckSIGRwz0qHECc5pSqa9r/view?usp=sharing) (Oct 2023) (Coursera / Stanford University) 
+- [Foundation of (UX) design](https://drive.google.com/file/d/11q8GqQ4IhrNLv8p8gQGyFahdh3mqa7AG/view?usp=sharing) (Sep 2023) (Coursera / Google)
+- [What is Data Science](https://drive.google.com/file/d/1K10oqhoZDeKd0w-pmPN4_Q3u4TdIEjcN/view?usp=sharing)) (Feb 2023) (Coursera / IBM)
+- [HTML](https://drive.google.com/file/d/14FFGbA9R6ryvsocibRj7UWCnf_dGuiNC/view?usp=sharing) (Oct 2018) (Solo Learn)
+- [JavaScript](https://drive.google.com/file/d/1UXCTwNDM_igzMTnlMuVlpGLjMAn-cRlq/view?usp=sharing) (Jan 2018) (Solo Learn)
 
 
 ### Platforms
