@@ -2,7 +2,7 @@
 
 ### About
 
-   I have 19 years of experience in the technical department in the construction field and have been working as a data analyst since 2015. During this period I used Excel, Power Query, PowerBI, SQL extencively. Now I am strengthening my python and tableau skills, planning to be employed in 2024.
+   I have 19 years of experience in the technical department in the construction field and have been working as a data analyst since 2015. During this period I used Excel, Power Query, PowerBI, SQL extencively. Now I am strengthening my python and other related skills for data science.
    
 
 ### Table of contents
