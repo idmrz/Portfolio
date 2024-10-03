@@ -2,7 +2,7 @@
 
 ### About
 
-   I have 19 years of experience in the technical department and have been working as a data analyst since 2015. During this period I used Excel, Power Query, PowerBI, SQL extencively. Now I am strengthening my python and other related skills for data science.
+   Experienced data analyst and quantity surveyor with 19 years of expertise in managing large-scale construction projects, including budgeting, reporting, and design documentation analysis. Skilled in data analysis using Excel, Power BI, and Python with a strong ability to optimize reporting processes. Currently expanding software development knowledge in Spring Boot, Flutter, and Object-Oriented Programming (OOP) to develop modern applications. Leading a full-stack project focused on design management, enabling users to track processes and generate real-time reports through a user-friendly interface.
    
 
 ### Table of contents
